@@ -1,4 +1,4 @@
-# NYC Trip Duration EDA Project
+# NYC Trip Duration Predictive Modeling 
 
 ## Overview
 
